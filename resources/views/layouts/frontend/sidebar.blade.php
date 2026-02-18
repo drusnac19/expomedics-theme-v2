@@ -12,15 +12,15 @@
     <flux:brand href="#" logo="{{ asset('logo.png') }}" class="max-lg:hidden! hidden dark:flex"/>
 
     <flux:navbar class="-mb-px max-lg:hidden py-7">
-        <flux:navbar.item href="#" class="text-xl hover:!bg-transparent">Home</flux:navbar.item>
-        <flux:navbar.item href="#" class="text-xl hover:!bg-transparent">News</flux:navbar.item>
-        <flux:navbar.item href="#" class="text-xl hover:!bg-transparent">Webinars</flux:navbar.item>
-        <flux:navbar.item href="#" class="text-xl hover:!bg-transparent">Events</flux:navbar.item>
-        <flux:navbar.item href="#" class="text-xl hover:!bg-transparent">Jobs</flux:navbar.item>
-        <flux:navbar.item href="#" class="text-xl hover:!bg-transparent" badge="open" badge:color="green" badge:variant="fill">Virtual Fair</flux:navbar.item>
-        <flux:navbar.item href="#" class="text-xl hover:!bg-transparent">Media</flux:navbar.item>
-        <flux:navbar.item href="#" class="text-xl hover:!bg-transparent">About us</flux:navbar.item>
-        <flux:navbar.item href="#" class="text-xl hover:!bg-transparent">Contact</flux:navbar.item>
+        <flux:navbar.item href="#" class="hover:!bg-transparent">Home</flux:navbar.item>
+        <flux:navbar.item href="#" class="hover:!bg-transparent">News</flux:navbar.item>
+        <flux:navbar.item href="#" class="hover:!bg-transparent">Webinars</flux:navbar.item>
+        <flux:navbar.item href="#" class="hover:!bg-transparent">Events</flux:navbar.item>
+        <flux:navbar.item href="#" class="hover:!bg-transparent">Jobs</flux:navbar.item>
+        <flux:navbar.item href="#" class="hover:!bg-transparent" badge="open" badge:color="green" badge:variant="fill">Virtual Fair</flux:navbar.item>
+        <flux:navbar.item href="#" class="hover:!bg-transparent">Media</flux:navbar.item>
+        <flux:navbar.item href="#" class="hover:!bg-transparent">About us</flux:navbar.item>
+        <flux:navbar.item href="#" class="hover:!bg-transparent">Contact</flux:navbar.item>
         <flux:navbar.item href="#" class="bg-accent !text-accent-foreground hover:!text-zinc-800">For employers</flux:navbar.item>
     </flux:navbar>
 
